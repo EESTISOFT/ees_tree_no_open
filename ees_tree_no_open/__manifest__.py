@@ -11,6 +11,7 @@ Allows to set "no open" attribute on tree view to prevent interraction upon row 
 	
 Made with love.
     """,
+	'images':['thumbs.png'],
     'depends': ['base'],
     'data': ['static/views/view.xml'],
     'installable': True,
