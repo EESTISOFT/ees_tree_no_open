@@ -1,7 +1,7 @@
 {
     'name': 'EESTISOFT tree no open',
     'version': '12.0.1.0',
-    'author': 'EESTISOFT, ''Giulio Milani, ''Hideki Andrea Yamamoto',
+    'author': 'EESTISOFT, ' 'Giulio Milani, ' 'Hideki Andrea Yamamoto',
     'category': 'Productivity',
     'website': 'https://eestisoft.com',
     'sequence': 2,
